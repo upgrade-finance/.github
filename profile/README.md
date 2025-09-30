@@ -55,13 +55,13 @@ Together, we are building the financial rails for the next generation of innovat
 
 The UPGRADE protocol is composed of:
 
-- **Launchpad** – Compliant tokenized fundraising via fair batch auctions  
-- **Vault** – Protocol-owned liquidity, milestone fund releases, and buyback logic  
-- **Token** – ERC-3643 (T-REX) compliant token standard with identity gating  
+- **BioCo Launchpad** – Compliant tokenized fundraising via fair batch auctions  
+- **Company Vault** – Protocol-owned liquidity, milestone fund releases, buybacks, royalties.
+- **Compliant Token** – ERC-3643 (T-REX) compliant token standard with identity gating.
 - **DEX (UpDEX)** – Custom AMM seeded directly from Launchpad proceeds  
-- **Liquidity Market (Future)** – Aave-style borrowing and lending for biotech tokens  
+- **Liquidity Market (Future)** – Morpho-style borrowing and lending for biotech tokens.
 
-Each fundraising event deploys a full set of composable contracts from the **Factory**, integrating compliance, tokenomics, and liquidity management at protocol level.
+Each fundraising event deploys a full set of composable contracts from a **Factory**, integrating compliance, tokenomics, and liquidity management at protocol level.
 
 ---
 
@@ -76,15 +76,6 @@ Each fundraising event deploys a full set of composable contracts from the **Fac
 | Compliance | ERC-3643 / T-REX standard |
 | AMM | Permissioned Decentralized exchange with POL (UpDEX) |
 | ETF tokens | ERC-4626 (pending) |
----
-
-## 📁 Repository Structure
-
-This `.github` repository is used for:
-
-- Organization-wide **documentation**, **templates**, and **standards**
-- Central **README** for investors, contributors, and ecosystem partners
-- Default **community health files** (CODEOWNERS, ISSUE_TEMPLATE, SECURITY, etc.)
 
 ---
 
@@ -101,11 +92,8 @@ In the meantime, refer to:
 ## Contributing
 
 Contributions from the open-source and DeSci communities are welcome.  
-To get involved:
 
-1. DM @sideris to add you to the organisation
-2. Review our docs and architecture  
-3. Submit PRs for protocol or frontend improvements  
+However at this stage we only work with contractors and employees. If you want to get involved DM @sideris!
 
 > Note: UPGRADE’s core contracts and launchpad are under **active audit and closed testing**.  
 > Public testnet deployment will be announced soon.
@@ -115,7 +103,7 @@ To get involved:
 ## Contact
 
 - 🌐 [upgrade.finance](https://upgrade.finance)  
-- 🐦 [@upgradefi](https://twitter.com/upgrade_finance)
+- 🐦 [@upgrade_finance](https://twitter.com/upgrade_finance)
 
 ---
 
