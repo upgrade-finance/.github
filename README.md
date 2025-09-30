@@ -1,4 +1,4 @@
-# 🧬 UPGRADE – The Onchain NASDAQ for Private Innovation Markets
+# UPGRADE – The Onchain NASDAQ for Private Innovation Markets
 
 > **TL;DR:**  
 > UPGRADE is building the **onchain NASDAQ for private innovation markets**.  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🌐 Vision
+## Vision
 
 UPGRADE brings **capital market infrastructure onchain**, beginning with the **biotech sector**. By tokenizing drug programs, we make traditionally illiquid, high-barrier biotech investments accessible, fractional, and liquid. Our platform enables:
 
@@ -20,7 +20,7 @@ UPGRADE bridges **DeSci**, **DeFi**, and **TradFi**, creating a unified, regulat
 
 ---
 
-## 👥 Team
+## Team
 
 Our team combines **DeSci and DeFi leadership** with deep **Wall Street** and **biotech investment banking** expertise.
 
@@ -34,8 +34,8 @@ Together, we are building the financial rails for the next generation of innovat
 
 ## 💸 Fundraise
 
-- **Round:** $2M SAFE  
-- **Valuation:** $20M pre-money  
+- **Round:** $2M SAFE with token side-letter.
+- **Valuation:** $20M pre-money.
 
 ---
 
@@ -45,13 +45,13 @@ Together, we are building the financial rails for the next generation of innovat
 |--------------|------|
 | 🧠 UPGRADE Vision | [shorturl.at/3BHKu](https://shorturl.at/3BHKu) |
 | 🌐 Website (beta) | [upgrade.finance](https://upgrade.finance/) |
-| 🧬 Demo – Biotech company user flow | [shorturl.at/LLhTN](https://shorturl.at/LLhTN) |
-| 💰 Demo – Investor user flow | [shorturl.at/t8KQx](https://shorturl.at/t8KQx) |
-| 📊 Deck | [shorturl.at/nUOnO](https://shorturl.at/nUOnO) |
+| 🎮 Demo – Biotech company user flow | [shorturl.at/LLhTN](https://shorturl.at/LLhTN) |
+| 🎮 Demo – Investor user flow | [shorturl.at/t8KQx](https://shorturl.at/t8KQx) |
+| 💼 Deck | [shorturl.at/nUOnO](https://shorturl.at/nUOnO) |
 
 ---
 
-## 🧱 Architecture Overview
+## Architecture Overview
 
 The UPGRADE protocol is composed of:
 
@@ -65,7 +65,7 @@ Each fundraising event deploys a full set of composable contracts from the **Fac
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |--------|-------------|
@@ -74,8 +74,8 @@ Each fundraising event deploys a full set of composable contracts from the **Fac
 | API | GraphQL + Apollo |
 | Database | Prisma + PostgreSQL |
 | Compliance | ERC-3643 / T-REX standard |
-| AMM | Custom Uniswap v2 (UpDEX), migrating to v4 with Hooks |
-
+| AMM | Permissioned Decentralized exchange with POL (UpDEX) |
+| ETF tokens | ERC-4626 (pending) |
 ---
 
 ## 📁 Repository Structure
@@ -88,7 +88,7 @@ This `.github` repository is used for:
 
 ---
 
-## 📚 Documentation
+## Documentation
 
 Detailed developer and product documentation will be published soon.  
 In the meantime, refer to:
@@ -98,7 +98,7 @@ In the meantime, refer to:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions from the open-source and DeSci communities are welcome.  
 To get involved:
@@ -112,14 +112,14 @@ To get involved:
 
 ---
 
-## 📬 Contact
+## Contact
 
 - 🌐 [upgrade.finance](https://upgrade.finance)  
 - 🐦 [@upgradefi](https://twitter.com/upgrade_finance)
 
 ---
 
-## ⚖️ Disclaimer
+## Disclaimer
 
 UPGRADE is a technology platform. Nothing herein constitutes financial advice or a solicitation to invest.  
 All fundraising and token issuance are conducted under applicable jurisdictional compliance standards.
